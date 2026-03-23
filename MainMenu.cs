@@ -33,12 +33,14 @@ namespace Milionar_4C_Kadlcik
         private void newGame_Click(object sender, EventArgs e)
         {
             GetNameDialog getName = new GetNameDialog();
-            if (getName.ShowDialog() == DialogResult.Yes)
+            getName.ShowDialog();
+            if (getName.isOk)
             {
                 string name = getName.Name;
                 MainGame mG = new MainGame();
                 mG.Show();
                 this.Hide();
+                MessageBox.Show(name);
             }
         }
     }

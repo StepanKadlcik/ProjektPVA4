@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Milionar_4C_Kadlcik
@@ -17,6 +10,8 @@ namespace Milionar_4C_Kadlcik
             get { return inputName.Text; }
             set { inputName.Text = value; }
         }
+
+        public bool isOk = false;
         public GetNameDialog()
         {
             InitializeComponent();
@@ -24,7 +19,18 @@ namespace Milionar_4C_Kadlcik
 
         private void GetNameDialog_Load(object sender, EventArgs e)
         {
-            
+            inputName.Text = "";
+        }
+
+        private void ok_Click(object sender, EventArgs e)
+        {
+            isOk = true;
+            this.Hide();
+        }
+
+        private void inputName_TextChanged(object sender, EventArgs e)
+        {
+            Name = inputName.Text;
         }
     }
 }

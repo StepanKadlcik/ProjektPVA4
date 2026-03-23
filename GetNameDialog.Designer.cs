@@ -52,6 +52,7 @@
             this.inputName.Name = "inputName";
             this.inputName.Size = new System.Drawing.Size(248, 27);
             this.inputName.TabIndex = 1;
+            this.inputName.TextChanged += new System.EventHandler(this.inputName_TextChanged);
             // 
             // back
             // 
@@ -80,6 +81,7 @@
             this.ok.TabIndex = 7;
             this.ok.Text = "OK";
             this.ok.UseVisualStyleBackColor = false;
+            this.ok.Click += new System.EventHandler(this.ok_Click);
             // 
             // GetNameDialog
             // 
@@ -94,7 +96,7 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "GetNameDialog";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Jak se jmenujete?";

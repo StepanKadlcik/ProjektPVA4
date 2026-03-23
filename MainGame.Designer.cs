@@ -31,22 +31,6 @@
             this.allQuestions = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.q1 = new System.Windows.Forms.Label();
-            this.q2 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.q5 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.q4 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.q9 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.q8 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.q7 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.q6 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
             this.q15 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
             this.q3 = new System.Windows.Forms.Label();
@@ -61,6 +45,22 @@
             this.label29 = new System.Windows.Forms.Label();
             this.q10 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
+            this.q9 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.q8 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.q7 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.q6 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.q5 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.q4 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.q2 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.q1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.questions = new System.Windows.Forms.Panel();
             this.question = new System.Windows.Forms.Label();
@@ -84,7 +84,7 @@
             // 
             this.allQuestions.Controls.Add(this.label1);
             this.allQuestions.Location = new System.Drawing.Point(1710, 205);
-            this.allQuestions.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.allQuestions.Margin = new System.Windows.Forms.Padding(4);
             this.allQuestions.Name = "allQuestions";
             this.allQuestions.Size = new System.Drawing.Size(300, 701);
             this.allQuestions.TabIndex = 0;
@@ -138,153 +138,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(200, 451);
             this.panel1.TabIndex = 1;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(109, 416);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(78, 19);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "1000 Kč";
-            // 
-            // q1
-            // 
-            this.q1.AutoSize = true;
-            this.q1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.q1.Location = new System.Drawing.Point(13, 416);
-            this.q1.Name = "q1";
-            this.q1.Size = new System.Drawing.Size(25, 19);
-            this.q1.TabIndex = 1;
-            this.q1.Text = "1.";
-            // 
-            // q2
-            // 
-            this.q2.AutoSize = true;
-            this.q2.Location = new System.Drawing.Point(13, 387);
-            this.q2.Name = "q2";
-            this.q2.Size = new System.Drawing.Size(25, 19);
-            this.q2.TabIndex = 3;
-            this.q2.Text = "2.";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(109, 387);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(78, 19);
-            this.label5.TabIndex = 2;
-            this.label5.Text = "2000 Kč";
-            // 
-            // q5
-            // 
-            this.q5.AutoSize = true;
-            this.q5.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.q5.Location = new System.Drawing.Point(13, 301);
-            this.q5.Name = "q5";
-            this.q5.Size = new System.Drawing.Size(25, 19);
-            this.q5.TabIndex = 7;
-            this.q5.Text = "5.";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label7.Location = new System.Drawing.Point(98, 301);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(89, 19);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "10000 Kč";
-            // 
-            // q4
-            // 
-            this.q4.AutoSize = true;
-            this.q4.Location = new System.Drawing.Point(13, 330);
-            this.q4.Name = "q4";
-            this.q4.Size = new System.Drawing.Size(25, 19);
-            this.q4.TabIndex = 5;
-            this.q4.Text = "4.";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(109, 330);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(78, 19);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "5000 Kč";
-            // 
-            // q9
-            // 
-            this.q9.AutoSize = true;
-            this.q9.Location = new System.Drawing.Point(13, 185);
-            this.q9.Name = "q9";
-            this.q9.Size = new System.Drawing.Size(25, 19);
-            this.q9.TabIndex = 15;
-            this.q9.Text = "9.";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(87, 185);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(100, 19);
-            this.label11.TabIndex = 14;
-            this.label11.Text = "160000 Kč";
-            // 
-            // q8
-            // 
-            this.q8.AutoSize = true;
-            this.q8.Location = new System.Drawing.Point(13, 214);
-            this.q8.Name = "q8";
-            this.q8.Size = new System.Drawing.Size(25, 19);
-            this.q8.TabIndex = 13;
-            this.q8.Text = "8.";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(98, 214);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(89, 19);
-            this.label13.TabIndex = 12;
-            this.label13.Text = "80000 Kč";
-            // 
-            // q7
-            // 
-            this.q7.AutoSize = true;
-            this.q7.Location = new System.Drawing.Point(13, 242);
-            this.q7.Name = "q7";
-            this.q7.Size = new System.Drawing.Size(25, 19);
-            this.q7.TabIndex = 11;
-            this.q7.Text = "7.";
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(98, 242);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(89, 19);
-            this.label15.TabIndex = 10;
-            this.label15.Text = "40000 Kč";
-            // 
-            // q6
-            // 
-            this.q6.AutoSize = true;
-            this.q6.Location = new System.Drawing.Point(13, 271);
-            this.q6.Name = "q6";
-            this.q6.Size = new System.Drawing.Size(25, 19);
-            this.q6.TabIndex = 9;
-            this.q6.Text = "6.";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(98, 271);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(89, 19);
-            this.label17.TabIndex = 8;
-            this.label17.Text = "20000 Kč";
             // 
             // q15
             // 
@@ -415,6 +268,153 @@
             this.label31.Size = new System.Drawing.Size(100, 19);
             this.label31.TabIndex = 16;
             this.label31.Text = "320000 Kč";
+            // 
+            // q9
+            // 
+            this.q9.AutoSize = true;
+            this.q9.Location = new System.Drawing.Point(13, 185);
+            this.q9.Name = "q9";
+            this.q9.Size = new System.Drawing.Size(25, 19);
+            this.q9.TabIndex = 15;
+            this.q9.Text = "9.";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(87, 185);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(100, 19);
+            this.label11.TabIndex = 14;
+            this.label11.Text = "160000 Kč";
+            // 
+            // q8
+            // 
+            this.q8.AutoSize = true;
+            this.q8.Location = new System.Drawing.Point(13, 214);
+            this.q8.Name = "q8";
+            this.q8.Size = new System.Drawing.Size(25, 19);
+            this.q8.TabIndex = 13;
+            this.q8.Text = "8.";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(98, 214);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(89, 19);
+            this.label13.TabIndex = 12;
+            this.label13.Text = "80000 Kč";
+            // 
+            // q7
+            // 
+            this.q7.AutoSize = true;
+            this.q7.Location = new System.Drawing.Point(13, 242);
+            this.q7.Name = "q7";
+            this.q7.Size = new System.Drawing.Size(25, 19);
+            this.q7.TabIndex = 11;
+            this.q7.Text = "7.";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(98, 242);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(89, 19);
+            this.label15.TabIndex = 10;
+            this.label15.Text = "40000 Kč";
+            // 
+            // q6
+            // 
+            this.q6.AutoSize = true;
+            this.q6.Location = new System.Drawing.Point(13, 271);
+            this.q6.Name = "q6";
+            this.q6.Size = new System.Drawing.Size(25, 19);
+            this.q6.TabIndex = 9;
+            this.q6.Text = "6.";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(98, 271);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(89, 19);
+            this.label17.TabIndex = 8;
+            this.label17.Text = "20000 Kč";
+            // 
+            // q5
+            // 
+            this.q5.AutoSize = true;
+            this.q5.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.q5.Location = new System.Drawing.Point(13, 301);
+            this.q5.Name = "q5";
+            this.q5.Size = new System.Drawing.Size(25, 19);
+            this.q5.TabIndex = 7;
+            this.q5.Text = "5.";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label7.Location = new System.Drawing.Point(98, 301);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(89, 19);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "10000 Kč";
+            // 
+            // q4
+            // 
+            this.q4.AutoSize = true;
+            this.q4.Location = new System.Drawing.Point(13, 330);
+            this.q4.Name = "q4";
+            this.q4.Size = new System.Drawing.Size(25, 19);
+            this.q4.TabIndex = 5;
+            this.q4.Text = "4.";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(109, 330);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(78, 19);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "5000 Kč";
+            // 
+            // q2
+            // 
+            this.q2.AutoSize = true;
+            this.q2.Location = new System.Drawing.Point(13, 387);
+            this.q2.Name = "q2";
+            this.q2.Size = new System.Drawing.Size(25, 19);
+            this.q2.TabIndex = 3;
+            this.q2.Text = "2.";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(109, 387);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(78, 19);
+            this.label5.TabIndex = 2;
+            this.label5.Text = "2000 Kč";
+            // 
+            // q1
+            // 
+            this.q1.AutoSize = true;
+            this.q1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.q1.Location = new System.Drawing.Point(13, 416);
+            this.q1.Name = "q1";
+            this.q1.Size = new System.Drawing.Size(25, 19);
+            this.q1.TabIndex = 1;
+            this.q1.Text = "1.";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(109, 416);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(78, 19);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "1000 Kč";
             // 
             // pictureBox1
             // 
@@ -609,10 +609,11 @@
             this.Controls.Add(this.allQuestions);
             this.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainGame";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainGame";
+            this.Load += new System.EventHandler(this.MainGame_Load);
             this.allQuestions.ResumeLayout(false);
             this.allQuestions.PerformLayout();
             this.panel1.ResumeLayout(false);
