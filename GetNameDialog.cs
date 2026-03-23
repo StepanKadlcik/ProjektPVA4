@@ -32,5 +32,10 @@ namespace Milionar_4C_Kadlcik
         {
             Name = inputName.Text;
         }
+
+        private void back_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

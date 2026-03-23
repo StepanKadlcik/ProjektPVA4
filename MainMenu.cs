@@ -37,7 +37,7 @@ namespace Milionar_4C_Kadlcik
             if (getName.isOk)
             {
                 string name = getName.Name;
-                MainGame mG = new MainGame();
+                MainGame mG = new MainGame(this);
                 mG.Show();
                 this.Hide();
                 MessageBox.Show(name);

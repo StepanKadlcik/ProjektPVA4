@@ -470,6 +470,7 @@
             this.exit.TabIndex = 5;
             this.exit.Text = "Ukončit hru";
             this.exit.UseVisualStyleBackColor = false;
+            this.exit.Click += new System.EventHandler(this.exit_Click);
             // 
             // shop
             // 
@@ -484,6 +485,7 @@
             this.shop.TabIndex = 6;
             this.shop.Text = "Tabulka vítězů";
             this.shop.UseVisualStyleBackColor = false;
+            this.shop.Click += new System.EventHandler(this.shop_Click);
             // 
             // answerA
             // 

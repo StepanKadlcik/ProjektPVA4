@@ -67,6 +67,7 @@
             this.back.TabIndex = 6;
             this.back.Text = "Zpět";
             this.back.UseVisualStyleBackColor = false;
+            this.back.Click += new System.EventHandler(this.back_Click);
             // 
             // ok
             // 

@@ -12,6 +12,7 @@ namespace Milionar_4C_Kadlcik
 {
     public partial class MainGame : Form
     {
+        private MainMenu mainMenu;
         private List<string> easyQuestions = new List<string>()
         {
             "sdsdsd1?",
@@ -31,12 +32,24 @@ namespace Milionar_4C_Kadlcik
 
         private List<string> takenEasyQuestions = new List<string>();
         private List<string[]> takenEasyAnswers = new List<string[]>();
-        public MainGame()
+        public MainGame(MainMenu mM)
         {
+            mainMenu = mM;
             InitializeComponent();
         }
 
         private void MainGame_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            mainMenu.Show();
+        }
+
+        private void shop_Click(object sender, EventArgs e)
         {
 
         }

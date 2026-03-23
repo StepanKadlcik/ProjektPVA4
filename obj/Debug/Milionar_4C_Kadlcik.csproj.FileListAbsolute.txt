@@ -10,3 +10,4 @@ C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.csproj.CoreCompileInputs.cache
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.exe
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.pdb
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.WinnersTable.resources
