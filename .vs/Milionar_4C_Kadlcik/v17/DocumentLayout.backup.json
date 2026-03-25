@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\projektpva4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\projektpva4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,11 +23,11 @@
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\projektpva4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\projektpva4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,8 +86,7 @@
               "RelativeToolTip": "GameShop.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAjwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T12:12:40.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T12:12:40.145Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs [N\u00E1vrh]",
               "RelativeToolTip": "GameShop.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T12:08:51.257Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-03-25T12:08:51.257Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "WinnersTable.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAjwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:28:21.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T11:28:21.681Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs [N\u00E1vrh]",
               "RelativeToolTip": "WinnersTable.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:27:35.639Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-03-23T11:27:35.639Z"
             },
             {
               "$type": "Document",
@@ -149,8 +145,7 @@
               "RelativeToolTip": "GetNameDialog.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAhwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:43.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T11:00:43.565Z"
             },
             {
               "$type": "Document",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:34.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T11:00:34.466Z"
             },
             {
               "$type": "Document",
@@ -174,8 +168,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GetNameDialog.cs [N\u00E1vrh]",
               "RelativeToolTip": "GetNameDialog.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:30.184Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-03-23T11:00:30.184Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainGame.cs [N\u00E1vrh]",
               "RelativeToolTip": "MainGame.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:29.066Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-03-23T11:00:29.066Z"
             },
             {
               "$type": "Document",
@@ -198,8 +190,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainMenu.cs [N\u00E1vrh]",
               "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:28.635Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-03-23T11:00:28.635Z"
             }
           ]
         }

@@ -51,9 +51,19 @@ namespace Milionar_4C_Kadlcik
             switch (phase)
             {
                 case 1:
-                    iOtazky = r.Next(0, easyQuestions.Count);
-                    question.Text = easyQuestions[iOtazky];
-                    fill_Answer_Buttons(iOtazky);
+                    if (easyQuestions.Count != 0)
+                    {
+                        iOtazky = r.Next(0, easyQuestions.Count);
+                        question.Text = easyQuestions[iOtazky];
+                        fill_Answer_Buttons(iOtazky);
+                    }
+                    else
+                    {
+                        iOtazky = 0;
+                        phase++;
+                        next_Question();
+                        break;
+                    }
                     break;
                 default:
                     break;
@@ -62,10 +72,10 @@ namespace Milionar_4C_Kadlcik
 
         private void fill_Answer_Buttons(int otazka)
         {
-            answerA.Text += $" {easyAnswers[otazka][0]}";
-            answerB.Text += $" {easyAnswers[otazka][1]}";
-            answerC.Text += $" {easyAnswers[otazka][2]}";
-            answerD.Text += $" {easyAnswers[otazka][3]}";
+            answerA.Text = $"a) {easyAnswers[otazka][0]}";
+            answerB.Text = $"b) {easyAnswers[otazka][1]}";
+            answerC.Text = $"c) {easyAnswers[otazka][2]}";
+            answerD.Text = $"d) {easyAnswers[otazka][3]}";
         }
 
         private void check_Answer(int index, int iOtazky, int phase)
@@ -80,6 +90,8 @@ namespace Milionar_4C_Kadlcik
 
                         easyAnswers.RemoveAt(iOtazky);
                         easyQuestions.RemoveAt(iOtazky);
+
+                        easyCorrect.RemoveAt(iOtazky);
 
                         iOtazky = 0;
                         next_Question();
