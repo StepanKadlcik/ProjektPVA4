@@ -11,3 +11,18 @@ C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.exe
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.pdb
 C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.WinnersTable.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\bin\Debug\Milionar_4C_Kadlcik.exe.config
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\bin\Debug\Milionar_4C_Kadlcik.exe
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\bin\Debug\Milionar_4C_Kadlcik.pdb
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.csproj.AssemblyReference.cache
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.exe.config
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.GameShop.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.GetNameDialog.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.MainGame.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.MainMenu.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.Properties.Resources.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.WinnersTable.resources
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.csproj.GenerateResource.cache
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.csproj.CoreCompileInputs.cache
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.exe
+C:\Users\i22kadlst\Source\Repos\ProjektPVA4\obj\Debug\Milionar_4C_Kadlcik.pdb

@@ -61,23 +61,23 @@
             this.label5 = new System.Windows.Forms.Label();
             this.q1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.questions = new System.Windows.Forms.Panel();
             this.question = new System.Windows.Forms.Label();
             this.timeLeft = new System.Windows.Forms.Label();
             this.exit = new System.Windows.Forms.Button();
             this.shop = new System.Windows.Forms.Button();
             this.answerA = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.answerB = new System.Windows.Forms.Button();
+            this.answerD = new System.Windows.Forms.Button();
+            this.answerC = new System.Windows.Forms.Button();
             this.telephone = new System.Windows.Forms.Button();
             this.people = new System.Windows.Forms.Button();
             this.fiftyfifty = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.allQuestions.SuspendLayout();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.questions.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // allQuestions
@@ -134,9 +134,9 @@
             this.panel1.Controls.Add(this.label2);
             this.panel1.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.panel1.ForeColor = System.Drawing.SystemColors.Control;
-            this.panel1.Location = new System.Drawing.Point(1119, 174);
+            this.panel1.Location = new System.Drawing.Point(1143, 102);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 451);
+            this.panel1.Size = new System.Drawing.Size(200, 445);
             this.panel1.TabIndex = 1;
             // 
             // q15
@@ -416,16 +416,6 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "1000 Kč";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackgroundImage = global::Milionar_4C_Kadlcik.Properties.Resources.moderator;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 102);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1101, 604);
-            this.pictureBox1.TabIndex = 2;
-            this.pictureBox1.TabStop = false;
-            // 
             // questions
             // 
             this.questions.Controls.Add(this.question);
@@ -501,51 +491,55 @@
             this.answerA.Text = "a)";
             this.answerA.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.answerA.UseVisualStyleBackColor = false;
+            this.answerA.Click += new System.EventHandler(this.answerA_Click);
             // 
-            // button1
+            // answerB
             // 
-            this.button1.BackColor = System.Drawing.Color.Navy;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(537, 730);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(510, 41);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "b)";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.UseVisualStyleBackColor = false;
+            this.answerB.BackColor = System.Drawing.Color.Navy;
+            this.answerB.FlatAppearance.BorderSize = 0;
+            this.answerB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.answerB.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.answerB.ForeColor = System.Drawing.Color.White;
+            this.answerB.Location = new System.Drawing.Point(537, 730);
+            this.answerB.Name = "answerB";
+            this.answerB.Size = new System.Drawing.Size(510, 41);
+            this.answerB.TabIndex = 8;
+            this.answerB.Text = "b)";
+            this.answerB.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.answerB.UseVisualStyleBackColor = false;
+            this.answerB.Click += new System.EventHandler(this.answerB_Click);
             // 
-            // button2
+            // answerD
             // 
-            this.button2.BackColor = System.Drawing.Color.Navy;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(537, 775);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(510, 41);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "d)";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.UseVisualStyleBackColor = false;
+            this.answerD.BackColor = System.Drawing.Color.Navy;
+            this.answerD.FlatAppearance.BorderSize = 0;
+            this.answerD.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.answerD.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.answerD.ForeColor = System.Drawing.Color.White;
+            this.answerD.Location = new System.Drawing.Point(537, 775);
+            this.answerD.Name = "answerD";
+            this.answerD.Size = new System.Drawing.Size(510, 41);
+            this.answerD.TabIndex = 10;
+            this.answerD.Text = "d)";
+            this.answerD.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.answerD.UseVisualStyleBackColor = false;
+            this.answerD.Click += new System.EventHandler(this.answerD_Click);
             // 
-            // button3
+            // answerC
             // 
-            this.button3.BackColor = System.Drawing.Color.Navy;
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(21, 775);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(510, 41);
-            this.button3.TabIndex = 9;
-            this.button3.Text = "c)";
-            this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.UseVisualStyleBackColor = false;
+            this.answerC.BackColor = System.Drawing.Color.Navy;
+            this.answerC.FlatAppearance.BorderSize = 0;
+            this.answerC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.answerC.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.answerC.ForeColor = System.Drawing.Color.White;
+            this.answerC.Location = new System.Drawing.Point(21, 775);
+            this.answerC.Name = "answerC";
+            this.answerC.Size = new System.Drawing.Size(510, 41);
+            this.answerC.TabIndex = 9;
+            this.answerC.Text = "c)";
+            this.answerC.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.answerC.UseVisualStyleBackColor = false;
+            this.answerC.Click += new System.EventHandler(this.answerC_Click);
             // 
             // telephone
             // 
@@ -589,6 +583,16 @@
             this.fiftyfifty.Text = "50:50";
             this.fiftyfifty.UseVisualStyleBackColor = false;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = global::Milionar_4C_Kadlcik.Properties.Resources.moderator;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 102);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1101, 604);
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
+            // 
             // MainGame
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
@@ -598,9 +602,9 @@
             this.Controls.Add(this.fiftyfifty);
             this.Controls.Add(this.people);
             this.Controls.Add(this.telephone);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.answerD);
+            this.Controls.Add(this.answerC);
+            this.Controls.Add(this.answerB);
             this.Controls.Add(this.answerA);
             this.Controls.Add(this.shop);
             this.Controls.Add(this.exit);
@@ -620,9 +624,9 @@
             this.allQuestions.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.questions.ResumeLayout(false);
             this.questions.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -670,9 +674,9 @@
         private System.Windows.Forms.Button exit;
         private System.Windows.Forms.Button shop;
         private System.Windows.Forms.Button answerA;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button answerB;
+        private System.Windows.Forms.Button answerD;
+        private System.Windows.Forms.Button answerC;
         private System.Windows.Forms.Button telephone;
         private System.Windows.Forms.Button people;
         private System.Windows.Forms.Button fiftyfifty;

@@ -64,6 +64,7 @@
             this.shop.TabIndex = 1;
             this.shop.Text = "Obchod";
             this.shop.UseVisualStyleBackColor = false;
+            this.shop.Click += new System.EventHandler(this.shop_Click);
             // 
             // exit
             // 
@@ -93,6 +94,7 @@
             this.winnerTable.TabIndex = 3;
             this.winnerTable.Text = "Tabulka vítězů";
             this.winnerTable.UseVisualStyleBackColor = false;
+            this.winnerTable.Click += new System.EventHandler(this.winnerTable_Click);
             // 
             // pictureBox1
             // 
@@ -120,6 +122,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainMenu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainMenu";
             this.Load += new System.EventHandler(this.MainMenu_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

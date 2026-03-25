@@ -12,6 +12,9 @@ namespace Milionar_4C_Kadlcik
 {
     public partial class MainGame : Form
     {
+        private int iOtazky = 0;
+        private int phase = 1;
+        private Random r = new Random();
         private MainMenu mainMenu;
         private List<string> easyQuestions = new List<string>()
         {
@@ -40,7 +43,51 @@ namespace Milionar_4C_Kadlcik
 
         private void MainGame_Load(object sender, EventArgs e)
         {
+            next_Question();
+        }
 
+        private void next_Question()
+        {
+            switch (phase)
+            {
+                case 1:
+                    iOtazky = r.Next(0, easyQuestions.Count);
+                    question.Text = easyQuestions[iOtazky];
+                    fill_Answer_Buttons(iOtazky);
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        private void fill_Answer_Buttons(int otazka)
+        {
+            answerA.Text += $" {easyAnswers[otazka][0]}";
+            answerB.Text += $" {easyAnswers[otazka][1]}";
+            answerC.Text += $" {easyAnswers[otazka][2]}";
+            answerD.Text += $" {easyAnswers[otazka][3]}";
+        }
+
+        private void check_Answer(int index, int iOtazky, int phase)
+        {
+            switch (phase)
+            {
+                case 1:
+                    if (easyAnswers[iOtazky][index] == easyAnswers[iOtazky][easyCorrect[iOtazky]])
+                    {
+                        takenEasyAnswers.Add(easyAnswers[iOtazky]);
+                        takenEasyQuestions.Add(easyQuestions[iOtazky]);
+
+                        easyAnswers.RemoveAt(iOtazky);
+                        easyQuestions.RemoveAt(iOtazky);
+
+                        iOtazky = 0;
+                        next_Question();
+                    }
+                    break;
+                default:
+                    break;
+            }
         }
 
         private void exit_Click(object sender, EventArgs e)
@@ -51,7 +98,28 @@ namespace Milionar_4C_Kadlcik
 
         private void shop_Click(object sender, EventArgs e)
         {
+            GameShop gS= new GameShop();
+            gS.Show();
+        }
 
+        private void answerA_Click(object sender, EventArgs e)
+        {
+            check_Answer(0, iOtazky, phase);
+        }
+
+        private void answerB_Click(object sender, EventArgs e)
+        {
+            check_Answer(1, iOtazky, phase);
+        }
+
+        private void answerC_Click(object sender, EventArgs e)
+        {
+            check_Answer(2, iOtazky, phase);
+        }
+
+        private void answerD_Click(object sender, EventArgs e)
+        {
+            check_Answer(3, iOtazky, phase);
         }
     }
 }

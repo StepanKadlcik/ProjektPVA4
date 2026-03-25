@@ -43,5 +43,17 @@ namespace Milionar_4C_Kadlcik
                 MessageBox.Show(name);
             }
         }
+
+        private void shop_Click(object sender, EventArgs e)
+        {
+            GameShop gS = new GameShop();
+            gS.Show();
+        }
+
+        private void winnerTable_Click(object sender, EventArgs e)
+        {
+            WinnersTable wT = new WinnersTable();
+            wT.Show();
+        }
     }
 }

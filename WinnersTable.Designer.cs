@@ -54,6 +54,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.exit);
             this.Name = "WinnersTable";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "WinnersTable";
             this.ResumeLayout(false);
 

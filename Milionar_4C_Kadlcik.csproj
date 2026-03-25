@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GameShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameShop.Designer.cs">
+      <DependentUpon>GameShop.cs</DependentUpon>
+    </Compile>
     <Compile Include="GetNameDialog.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +78,9 @@
     <Compile Include="WinnersTable.Designer.cs">
       <DependentUpon>WinnersTable.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="GameShop.resx">
+      <DependentUpon>GameShop.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GetNameDialog.resx">
       <DependentUpon>GetNameDialog.cs</DependentUpon>
     </EmbeddedResource>
