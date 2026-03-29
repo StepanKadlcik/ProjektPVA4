@@ -400,7 +400,7 @@
             // q1
             // 
             this.q1.AutoSize = true;
-            this.q1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.q1.ForeColor = System.Drawing.Color.Orange;
             this.q1.Location = new System.Drawing.Point(13, 416);
             this.q1.Name = "q1";
             this.q1.Size = new System.Drawing.Size(25, 19);

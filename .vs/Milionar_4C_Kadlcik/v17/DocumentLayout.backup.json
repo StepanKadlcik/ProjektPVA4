@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\",
+  "WorkspaceRootPath": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\projektpva4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\progaming\\source\\repos\\pvaaa4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:gameshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:getnamedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:winnerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,39 +50,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GameShop.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GameShop.cs",
               "RelativeDocumentMoniker": "GameShop.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GameShop.cs",
               "RelativeToolTip": "GameShop.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAjwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,10 +84,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GameShop.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GameShop.cs",
               "RelativeDocumentMoniker": "GameShop.cs",
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs [N\u00E1vrh]",
-              "RelativeToolTip": "GameShop.cs [N\u00E1vrh]",
+              "RelativeToolTip": "..\\..\\..\\..\\i22kadlst\\source\\repos\\ProjektPVA4\\GameShop.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T12:08:51.257Z"
             },
@@ -103,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "WinnersTable.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\WinnersTable.cs",
               "RelativeDocumentMoniker": "WinnersTable.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\WinnersTable.cs",
               "RelativeToolTip": "WinnersTable.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAjwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,10 +107,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "WinnersTable.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\WinnersTable.cs",
               "RelativeDocumentMoniker": "WinnersTable.cs",
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs [N\u00E1vrh]",
-              "RelativeToolTip": "WinnersTable.cs [N\u00E1vrh]",
+              "RelativeToolTip": "..\\..\\..\\..\\i22kadlst\\source\\repos\\ProjektPVA4\\WinnersTable.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T11:27:35.639Z"
             },
@@ -126,11 +118,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainGame.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainGame.cs",
               "RelativeDocumentMoniker": "MainGame.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainGame.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainGame.cs",
               "RelativeToolTip": "MainGame.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAmwEIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowHcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T11:18:44.517Z",
               "EditorCaption": ""
@@ -139,58 +131,63 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "GetNameDialog.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GetNameDialog.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GetNameDialog.cs",
               "RelativeDocumentMoniker": "GetNameDialog.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GetNameDialog.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GetNameDialog.cs",
               "RelativeToolTip": "GetNameDialog.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAhwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:43.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainMenu.cs",
-              "RelativeToolTip": "MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:34.466Z"
+              "WhenOpened": "2026-03-23T11:00:43.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetNameDialog.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GetNameDialog.cs",
-              "RelativeDocumentMoniker": "GetNameDialog.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\GetNameDialog.cs [N\u00E1vrh]",
-              "RelativeToolTip": "GetNameDialog.cs [N\u00E1vrh]",
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:30.184Z"
+              "WhenOpened": "2026-03-23T11:00:34.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GetNameDialog.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GetNameDialog.cs",
+              "RelativeDocumentMoniker": "GetNameDialog.cs",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\GetNameDialog.cs [N\u00E1vrh]",
+              "RelativeToolTip": "GetNameDialog.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:00:30.184Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainGame.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainGame.cs",
               "RelativeDocumentMoniker": "MainGame.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainGame.cs [N\u00E1vrh]",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainGame.cs [N\u00E1vrh]",
               "RelativeToolTip": "MainGame.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:29.066Z"
+              "WhenOpened": "2026-03-23T11:00:29.066Z",
+              "EditorCaption": " [N\u00E1vrh]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainMenu.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\ProjektPVA4\\MainMenu.cs [N\u00E1vrh]",
+              "ToolTip": "C:\\Users\\ProGaming\\source\\repos\\PVAAA4\\MainMenu.cs [N\u00E1vrh]",
               "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T11:00:28.635Z"
+              "WhenOpened": "2026-03-23T11:00:28.635Z",
+              "EditorCaption": " [N\u00E1vrh]"
             }
           ]
         }
