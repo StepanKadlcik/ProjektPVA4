@@ -185,7 +185,6 @@ namespace Milionar_4C_Kadlcik
                         break;
                     case 14:
                         q14.ForeColor = System.Drawing.Color.Orange;
-                        answerNumber++;
                         break;
                     default:
                         break;
